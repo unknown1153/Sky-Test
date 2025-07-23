@@ -1,0 +1,21 @@
+{
+  "user_info": {
+    "username": "test",
+    "password": "test",
+    "message": "Welcome!",
+    "auth": 1,
+    "status": "Active",
+    "exp_date": "17600828828",
+    "max_connections": "1"
+  },
+  "server_info": {
+    "url": "line.ottcdn.net",
+    "port": "80",
+    "https_port": "443",
+    "server_protocol": "http",
+    "rtmp_port": "1935",
+    "timezone": "UTC",
+    "timestamp_now": "1700000000"
+  },
+  "status": "success"
+}
